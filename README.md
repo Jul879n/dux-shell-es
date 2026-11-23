@@ -16,7 +16,7 @@ fija `locale: "es"` y reinicia `dms`.
 
 ## Actualizaciones
 
-Una actualización del paquete `dms` sobrescribe los archivos: vuelva a ejecutar `./install.sh`.
+`install.sh` instala un hook de dnf5 (`/etc/dnf/libdnf5-plugins/actions.d/dux-shell-es.actions`) que reaplica la traducción tras cada actualización de `dms`; reinicie `dms` o la sesión para cargarla. También traduce los 3 textos fijos del modal de novedades.
 
 ## Licencia
 
