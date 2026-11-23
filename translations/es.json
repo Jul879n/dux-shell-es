@@ -2667,7 +2667,7 @@
     "Displays": "Pantallas"
   },
   "Displays in \"%1": {
-    "Displays in \"%1": "Pantallas en \"%1"
+    "Displays in \"%1\"": "Pantallas en \"%1"
   },
   "Displays the active keyboard layout and allows switching": {
     "Displays the active keyboard layout and allows switching": "Muestra la distribución de teclado activa y permite cambiarla"
@@ -7383,7 +7383,7 @@
     "Repeats while the key is held": "Se repite mientras se mantiene presionada la tecla"
   },
   "Replace a displayed layout label with custom text, e.g. \"am-phonetic-alt\" → \"am": {
-    "Replace a displayed layout label with custom text, e.g. \"am-phonetic-alt\" → \"am": "Reemplaza una etiqueta de distribución mostrada con texto personalizado, p. ej. \"am-phonetic-alt\" → \"am"
+    "Replace a displayed layout label with custom text, e.g. \"am-phonetic-alt\" → \"am\"": "Reemplaza una etiqueta de distribución mostrada con texto personalizado, p. ej. \"am-phonetic-alt\" → \"am"
   },
   "Replacement": {
     "Replacement": "Reemplazo"
@@ -10443,9 +10443,30 @@
     "• yyyy - Year (2024)": "yyyy - Año (2024)"
   },
   "Window": {
-    "Window": "Ventana"
+    "Windows": "Ventana"
   },
   "Execute": {
     "Execute": "Ejecutar"
+  },
+  "Authentication error - try again": {
+    "Authentication error - try again": "Error de autenticación: intente de nuevo"
+  },
+  "Authenticating...": {
+    "Authenticating...": "Autenticando..."
+  },
+  "Security key": {
+    "Security key": "Llave de seguridad"
+  },
+  "Fingerprint": {
+    "Fingerprint": "Huella dactilar"
+  },
+  "Keyboard": {
+    "Keyboard": "Teclado"
+  },
+  "Authentication failed - try again": {
+    "Authentication failed - try again": "Falló la autenticación: intente de nuevo"
+  },
+  "Login": {
+    "Login": "Inicio de sesión"
   }
 }
